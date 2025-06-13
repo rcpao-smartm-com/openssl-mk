@@ -3,4 +3,5 @@
 git clone and build the master branch of
 https://github.com/openssl/openssl/
 
-Tested in Fedora 41.
+Tested in the following:
+Ubuntu 24.04.2
